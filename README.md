@@ -65,7 +65,7 @@ Complete Software Requirement Specification (SRS) of the AIMS capstone project
 </details>
 
 <details>
-<summary>Nguyen Hai Anh</summary>
+<summary>Tran Nhu Thai</summary>
 <br>
 
 - Assigned tasks:
